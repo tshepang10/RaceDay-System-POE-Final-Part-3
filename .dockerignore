@@ -1,0 +1,13 @@
+**/bin
+**/obj
+**/TestResults
+**/node_modules
+**/.vs
+**/.vscode
+**/*.user
+.git
+.github
+docs
+*.md
+**/appsettings.*.local.json
+.env

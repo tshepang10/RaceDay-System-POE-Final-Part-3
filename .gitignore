@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+TestResults/
+publish/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+# Secrets
+appsettings.*.local.json
+*.env
+.env
+RaceDay.Api/wwwroot/uploads/

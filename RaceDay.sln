@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceDay.Api", "RaceDay.Api\RaceDay.Api.csproj", "{B0CEA5F3-A25E-4F63-9C3B-49E9E4B5C68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceDay.Tests", "RaceDay.Tests\RaceDay.Tests.csproj", "{DE6FE4F6-5A8F-45E4-AA56-98C7ADAA49D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceDay.Web", "RaceDay.Web\RaceDay.Web.csproj", "{35A45A10-C435-4B8B-B864-11C05DCA729C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceDay.Web.Tests", "RaceDay.Web.Tests\RaceDay.Web.Tests.csproj", "{74902975-AA28-4E5F-8E6C-DB75140A9B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CEA5F3-A25E-4F63-9C3B-49E9E4B5C68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CEA5F3-A25E-4F63-9C3B-49E9E4B5C68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CEA5F3-A25E-4F63-9C3B-49E9E4B5C68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CEA5F3-A25E-4F63-9C3B-49E9E4B5C68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6FE4F6-5A8F-45E4-AA56-98C7ADAA49D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6FE4F6-5A8F-45E4-AA56-98C7ADAA49D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6FE4F6-5A8F-45E4-AA56-98C7ADAA49D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6FE4F6-5A8F-45E4-AA56-98C7ADAA49D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A45A10-C435-4B8B-B864-11C05DCA729C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A45A10-C435-4B8B-B864-11C05DCA729C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A45A10-C435-4B8B-B864-11C05DCA729C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A45A10-C435-4B8B-B864-11C05DCA729C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74902975-AA28-4E5F-8E6C-DB75140A9B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74902975-AA28-4E5F-8E6C-DB75140A9B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74902975-AA28-4E5F-8E6C-DB75140A9B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74902975-AA28-4E5F-8E6C-DB75140A9B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
